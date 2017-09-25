@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>imu</name>
+    <version>0.0.1</version>
+    <description>Publishes imu data</description>
+    <maintainer email="codyreading@gmail.com">codyreading</maintainer>
+    <license>TODO</license>
+    <author>codyreading@gmail.com</author>
+
+    <buildtool_depend>catkin</buildtool_depend>
+    <depend>rospy</depend>
+    <depend>roslib</depend>
+    <depend>std_msgs</depend>
+    <depend>sensor_msgs</depend>
+</package>
